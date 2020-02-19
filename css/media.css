@@ -481,6 +481,9 @@
     .action-row .action-input .caption.text {
       font-size: 12px;
     }
+    .button.trading_up {
+      margin-left: 0px;
+    }
     .user-photo__container {
       min-width: 40px;
       min-height: 40px;
