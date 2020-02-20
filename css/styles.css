@@ -1668,3 +1668,6 @@ border: 0;
           align-items: center;
           width: 100%;
 }
+.tour-step-background{
+  opacity: 0.2;
+}
